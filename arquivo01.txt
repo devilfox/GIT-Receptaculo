@@ -1,4 +1,4 @@
-primero
-arkivu
-du
-guitirubi
+primeiro
+arquivo
+do
+github
